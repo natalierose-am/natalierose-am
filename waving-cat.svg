@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="180" viewBox="0 0 200 180" role="img" aria-labelledby="title">
+  <title id="title">Tiny line-art code cat waving hello</title>
+  <g fill="none" stroke="#c084fc" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <!-- Curled tail and little body -->
+    <path d="M121 145 C160 151 157 120 144 125 C134 130 148 140 121 136"/>
+    <path d="M76 103 Q66 121 70 149 Q94 160 119 149 L117 105"/>
+    <path d="M84 133 L83 151 M105 133 L105 151"/>
+    <!-- Pointy ears and round cheeks -->
+    <path fill="#171326" d="M61 70 L58 36 L82 52 Q96 46 109 52 L132 36 L129 72 Q142 110 97 112 Q52 109 61 70 Z"/>
+    <path d="M66 47 L70 61 M123 47 L118 61" stroke-width="2"/>
+    <!-- Happy eyes, tiny nose and smile -->
+    <path d="M77 78 Q81 72 85 78 M107 78 Q111 72 115 78"/>
+    <path d="M93 85 L99 85 L96 89 M96 89 L96 93 M96 93 Q89 99 86 92 M96 93 Q103 99 107 92" stroke-width="2.5"/>
+    <path d="M61 87 L48 83 M61 94 L47 96 M130 87 L143 83 M130 94 L144 96" stroke-width="2"/>
+    <!-- A paw waving from the shoulder -->
+    <g>
+      <animateTransform attributeName="transform" type="rotate" values="-12 120 119;18 120 119;-12 120 119" dur="0.8s" repeatCount="indefinite"/>
+      <path fill="#171326" d="M119 120 L133 100 L135 83 Q137 75 142 81 Q147 74 151 81 Q158 78 158 87 Q159 96 150 102 L132 130"/>
+      <path d="M140 90 L140 94 M148 88 L148 93" stroke-width="2"/>
+    </g>
+  </g>
+  <text x="96" y="174" text-anchor="middle" font-family="monospace" font-size="13" fill="#c084fc">hello, world!</text>
+</svg>
