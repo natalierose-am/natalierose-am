@@ -29,8 +29,17 @@
 ### 🛠️ Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub, and Visual Studio Code" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm&theme=dark"
+       alt="Git, GitHub, Visual Studio Code, and PyCharm" />
+  <br /><br />
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"
+       alt="Google Colab" />
 </p>
 
 ---
+
+<p align="center">
+  <img src="./waving-cat.svg" width="120"
+       alt="Tiny code cat waving hello" />
+</p>
 
