@@ -23,7 +23,7 @@
 ### 💻 Languages I'm learning and using
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js, java&theme=dark" alt="C++, Python, HTML, CSS, JavaScript and Java" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,html,css,js&theme=dark" alt="C++, Python, Java, HTML, CSS, and JavaScript" />
 </p>
 
 ### 🛠️ Tools
