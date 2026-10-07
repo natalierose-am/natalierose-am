@@ -39,7 +39,7 @@
 ---
 
 <p align="center">
-  <img src="./waving-cat.svg" width="120"
+  <img src="./waving-cat.svg" width="300"
        alt="Tiny code cat waving hello" />
 </p>
 
